@@ -1,0 +1,8 @@
+{
+    "functions": {
+        "api/hpm-price.js": {
+            "maxDuration": 60,
+            "memory": 1024
+        }
+    }
+}
